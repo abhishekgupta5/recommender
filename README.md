@@ -1,5 +1,6 @@
 # Recommender
-Recommendation system based out of last.fm API
+Rails microblog app
+
 
 ## Geting started
 
